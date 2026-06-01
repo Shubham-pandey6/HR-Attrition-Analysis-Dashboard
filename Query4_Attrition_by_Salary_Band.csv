@@ -1,0 +1,5 @@
+Salary_Band,Total_Employees,Attrited,Attrition_Rate
+"Low (Below 3K)",395,113,28.61
+"Medium (3K-6K)",519,66,12.72
+"High (6K-10K)",275,33,12.00
+"Very High (Above 10K)",281,25,8.90
